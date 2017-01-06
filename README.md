@@ -1,4 +1,4 @@
-# COMP-Project
+# COMP- JSON Parsing
 
 Author: João Pedro Milano Silva Cardoso - ee09063@fe.up.pt
 
